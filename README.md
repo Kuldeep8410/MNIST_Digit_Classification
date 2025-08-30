@@ -45,6 +45,7 @@ pip install -r requirements.txt
 python train.py
 ```
 ###📂 Project Structure
+
 MNIST_Digit_Classification/
 │── data/               # Dataset (auto-downloaded if using torchvision/keras)
 │── notebooks/          # Jupyter notebooks for experiments
@@ -54,6 +55,7 @@ MNIST_Digit_Classification/
 │── evaluate.py         # Script to test/evaluate the model
 │── requirements.txt    # List of dependencies
 │── README.md           # Project documentation
+
 ###🔮 Future Improvements
 
 Try deeper CNN architectures (e.g., LeNet, ResNet).
